@@ -10,7 +10,7 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/protobuf v1.3.3 // indirect
 	github.com/hellofresh/updater-go v1.0.1
-	github.com/itsmechlark/fake v0.0.0-20210728105710-1de632fce198
+	github.com/itsmechlark/fake v0.0.0-20210728122407-9124d459a023
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/lib/pq v1.3.0
 	github.com/palantir/stacktrace v0.0.0-20161112013806-78658fd2d177

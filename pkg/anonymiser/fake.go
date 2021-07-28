@@ -10,6 +10,7 @@ import (
 
 var Functions = map[string]reflect.Value{
 	"BankAccountNum":           reflect.ValueOf(fake.BankAccountNum),
+	"BankAccountNumDefault":    reflect.ValueOf(fake.BankAccountNumDefault),
 	"BankAccountType":          reflect.ValueOf(fake.BankAccountType),
 	"BankName":                 reflect.ValueOf(fake.BankName),
 	"BICS":                    	reflect.ValueOf(fake.BICS),

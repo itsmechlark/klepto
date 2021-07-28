@@ -77,6 +77,8 @@ github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANyt
 github.com/itsmechlark/fake v0.0.0-20180203215853-4178557ae428/go.mod h1:/tCPOwcxWGKW/gvVq2CNwS43M692eDYD5+MMWaMDZ80=
 github.com/itsmechlark/fake v0.0.0-20210728105710-1de632fce198 h1:AHTkP3za+Km9fkqJXGH/ao0GKrxcDD3Sg2jkysmxzpI=
 github.com/itsmechlark/fake v0.0.0-20210728105710-1de632fce198/go.mod h1:VYTH2PbkfRa6to/mSNQa/vnNtDnd50On4WuNU27WJnw=
+github.com/itsmechlark/fake v0.0.0-20210728122407-9124d459a023 h1:1Sgn6IkO+JKF+0hAp2BHLEVeMaWxGjxjPrkYmFG7ano=
+github.com/itsmechlark/fake v0.0.0-20210728122407-9124d459a023/go.mod h1:VYTH2PbkfRa6to/mSNQa/vnNtDnd50On4WuNU27WJnw=
 github.com/jgautheron/goconst v1.5.1/go.mod h1:aAosetZ5zaeC/2EfMeRswtxUFBpe2Hr7HzkgX4fanO4=
 github.com/jonboulle/clockwork v0.1.0/go.mod h1:Ii8DK3G1RaLaWxj9trq07+26W01tbo22gdxWY5EU2bo=
 github.com/jtolds/gls v4.20.0+incompatible h1:xdiiI2gbIgH/gLH7ADydsJ1uDOEzR8yvV7C0MuV77Wo=

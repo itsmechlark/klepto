@@ -223,13 +223,13 @@ This would replace these 4 columns from the `customer` and `users` tables and ru
 
 #### Available data types for anonymisation
 
-Available data types can be found in [fake.go](pkg/anonymiser/fake.go). This file is generated from https://github.com/icrowley/fake (it must be generated because it is written in such a way that Go cannot reflect upon it).
+Available data types can be found in [fake.go](pkg/anonymiser/fake.go). This file is generated from https://github.com/itsmechlark/fake (it must be generated because it is written in such a way that Go cannot reflect upon it).
 
 We generate the file with the following:
 
 ```sh
 $ go get github.com/ungerik/pkgreflect
-$ fake master pkgreflect -notypes -novars -norecurs vendor/github.com/icrowley/fake/
+$ fake master pkgreflect -notypes -novars -norecurs vendor/github.com/itsmechlark/fake/
 ```
 
 <a name="relationships"></a>

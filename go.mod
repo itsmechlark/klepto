@@ -7,7 +7,7 @@ require (
 	github.com/Masterminds/squirrel v1.5.2
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/hellofresh/updater-go/v3 v3.0.1
-	github.com/itsmechlark/fake v0.0.0-20210728122407-9124d459a023
+	github.com/itsmechlark/fake v0.0.0-20221024115340-e797d438ae86
 	github.com/lib/pq v1.10.4
 	github.com/palantir/stacktrace v0.0.0-20161112013806-78658fd2d177
 	github.com/sirupsen/logrus v1.8.1
@@ -18,7 +18,7 @@ require (
 
 require (
 	github.com/Masterminds/semver/v3 v3.1.1 // indirect
-	github.com/corpix/uarand v0.1.1 // indirect
+	github.com/corpix/uarand v0.2.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect

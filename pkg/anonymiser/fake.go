@@ -5,10 +5,17 @@ package anonymiser
 import (
 	"reflect"
 
-	"github.com/icrowley/fake"
+	"github.com/itsmechlark/fake"
 )
 
 var Functions = map[string]reflect.Value{
+	"BankAccountNum":           reflect.ValueOf(fake.BankAccountNum),
+	"BankAccountNumDefault":    reflect.ValueOf(fake.BankAccountNumDefault),
+	"BankAccountType":          reflect.ValueOf(fake.BankAccountType),
+	"BankName":                 reflect.ValueOf(fake.BankName),
+	"BICS":                    	reflect.ValueOf(fake.BICS),
+	"BIRNumber":                reflect.ValueOf(fake.BIRNumber),
+	"BIRRDO":                   reflect.ValueOf(fake.BIRRDO),
 	"Brand":                    reflect.ValueOf(fake.Brand),
 	"Character":                reflect.ValueOf(fake.Character),
 	"Characters":               reflect.ValueOf(fake.Characters),
@@ -43,6 +50,7 @@ var Functions = map[string]reflect.Value{
 	"Gender":                   reflect.ValueOf(fake.Gender),
 	"GenderAbbrev":             reflect.ValueOf(fake.GenderAbbrev),
 	"GetLangs":                 reflect.ValueOf(fake.GetLangs),
+	"IBAN":            			reflect.ValueOf(fake.IBAN),
 	"HexColor":                 reflect.ValueOf(fake.HexColor),
 	"HexColorShort":            reflect.ValueOf(fake.HexColorShort),
 	"IPv4":                     reflect.ValueOf(fake.IPv4),

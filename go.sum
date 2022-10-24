@@ -268,6 +268,8 @@ github.com/itsmechlark/fake v0.0.0-20210728122407-9124d459a023 h1:1Sgn6IkO+JKF+0
 github.com/itsmechlark/fake v0.0.0-20210728122407-9124d459a023/go.mod h1:VYTH2PbkfRa6to/mSNQa/vnNtDnd50On4WuNU27WJnw=
 github.com/itsmechlark/fake v0.0.0-20221024115340-e797d438ae86 h1:lPBd2iTetM1Nz+8D71QnB0hMwHk4elfCPmlPp0eyWUo=
 github.com/itsmechlark/fake v0.0.0-20221024115340-e797d438ae86/go.mod h1:VYTH2PbkfRa6to/mSNQa/vnNtDnd50On4WuNU27WJnw=
+github.com/itsmechlark/fake v0.0.0-20221024135705-919323f2da87 h1:+wadrpUh7vho3DJ6AuDTv5+LuxeFlaSoCYfHTvpdeXg=
+github.com/itsmechlark/fake v0.0.0-20221024135705-919323f2da87/go.mod h1:VYTH2PbkfRa6to/mSNQa/vnNtDnd50On4WuNU27WJnw=
 github.com/jgautheron/goconst v1.5.1/go.mod h1:aAosetZ5zaeC/2EfMeRswtxUFBpe2Hr7HzkgX4fanO4=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/json-iterator/go v1.1.9/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
